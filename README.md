@@ -4,5 +4,10 @@ Hello! I am a computer science student at the University of North Texas graduati
 
 I am seeking the role of a Software Engineer to incorporate my expertise in software design, application development, and quality assurance. I have experience as a teaching assistant and have worked on several academic and independent projects related to software engineering, machine learning, and web development.
 
-You can find my portfolio, resume, and contact information on my LinkedIn profile: https://linkedin.com/in/nishanthgoudp
+You can find my resume, and contact information on my 
+
+LinkedIn profile: https://linkedin.com/in/nishanthgoudp
+
+portfolio:https://nishanthgoud.netlify.app/
+
 Thank you for visiting my profile.
