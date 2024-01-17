@@ -1,4 +1,4 @@
-Nishanth Goud Pendimukulla - Software Engineer
+Nishanth - Software Engineer
 
 Hello! I am a computer science student at the University of North Texas graduating in May 2023 with a master's degree. I am a creative-minded and detail-oriented individual with the ability to adhere to established procedures and thrive on my own under little or no supervision.
 
@@ -7,7 +7,5 @@ I am seeking the role of a Software Engineer to incorporate my expertise in soft
 You can find my resume, and contact information on my 
 
 LinkedIn profile: https://linkedin.com/in/nishanthgoudp
-
-portfolio:https://nishanthgoud.netlify.app/
 
 Thank you for visiting my profile.
